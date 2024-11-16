@@ -1,0 +1,1 @@
+A disk subsystem emulation program that checks the effectiveness of two methods of processing a request to the disk subsystem: FIFO and FSCAN. The program randomly generates queries to the disk subsystem and displays the simulation results.
